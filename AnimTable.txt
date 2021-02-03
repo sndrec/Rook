@@ -1,0 +1,191 @@
+hello rook. i will make you a life ing creature with my great power. you will run and k o the other brothers
+
+BASIC STUFF
+-----------
+Wait						| Done
+WaitItem					| Done
+WalkSlow					| Done
+WalkMiddle					| Done
+WalkFast					| Done
+Turn						| Done
+TurnRun						| Done
+Dash						| Done
+Run							| Done
+RunBrake					| Done
+Landing						| Done
+JumpF						| Done
+JumpB						| Done
+JumpAerialF1				| Done
+Fall						| Done
+FallF						| Done
+FallB						| Done
+FallAerial					| Done
+FallAerialF					| Done
+FallAerialB					| Done
+FallSpecial					| Done
+FallSpecialF				| Done
+FallSpecialB				| Done
+Squat						| Done
+SquatWait1					| Done
+SquatWait2					| Done
+SquatWaitItem				| Waiting while crouched with item
+SquatRv						| Done
+GuardOn						| Done
+GuardOff					| Done
+Guard						| Done
+GuardDamage					| Shield is hit
+EscapeN						| Done
+EscapeF						| Done
+EscapeB						| Done
+EscapeAir					| Done
+Pass						| Drop through a platform
+Ottotto						| Initial teeter at an edge
+OttottoWait					| Edge teeter idle
+StopWall					| Hit a wall
+StopCeil					| Hit a ceiling
+MissFoot					| Sliding off an edge backwards
+CliffCatch					| Initial ledge grab
+CliffWait					| Waiting on ledge
+CliffClimbSlow				| Regular ledge getup > 100%
+CliffClimbQuick				| Regular ledge getup < 100%
+CliffAttackSlow				| Ledge getup attack > 100%
+CliffAttackQuick			| Ledge getup attack < 100%
+CliffEscapeSlow				| Ledge roll > 100%
+CliffEscapeQuick			| Ledge roll < 100%
+CliffJumpSlow1				| Initial jumping from ledge > 100%
+CliffJumpSlow2				| The actual jumping part > 100%
+CliffJumpQuick1				| Initial jumping from ledge < 100%
+CliffJumpQuick2				| The actual jumping part < 100%
+AppealR						| Right-facing taunt
+AppealL						| Left-facing taunt
+-----------
+ATTACKS RELATED
+-----------					| 
+Attack11					| Jab 1
+Attack12					| Jab 2
+AttackDash					| Dash Attack
+AttackS3Hi					| Up-angled Forward Tilt
+AttackS3S					| Forward Tilt
+AttackS3Lw					| Low-angled Forward Tilt
+AttackHi3					| Up Tilt
+AttackLw3					| Down Tilt
+AttackS4					| Forward Smash
+AttackHi4					| Up Smash
+AttackLw4					| Down Smash
+AttackAirN					| Done
+AttackAirF					| Forward Air
+AttackAirB					| Back Air
+AttackAirHi					| Up Air
+AttackAirLw					| Down Air
+LandingAirN					| Done
+LandingAirF					| F-Air Landing Animation
+LandingAirB					| B-Air Landing Animation
+LandingAirHi				| U-Air Landing Animation
+LandingAirLw				| D-Air Landing Animation
+Catch						| Standing Grab
+CatchDash					| Running Grab
+CatchWait					| Holding Opponent
+CatchAttack					| Pummel
+CatchCut					| Opponent breaks free from grab
+ThrowF						| Forward Throw
+ThrowB						| Back Throw
+ThrowHi						| Up Throw
+ThrowLw						| Down Throw
+CapturePulledHi				| Being grabbed by a tall character
+CaptureWaitHi				| Waiting in grab by a tall character
+CaptureDamageHi				| Being pummelled by a tall character
+CapturePulledLw				| Being grabbed by a short character
+CaptureWaitLw				| Waiting in grab by a short character
+CaptureDamageLw				| Being pummelled by a short character
+CaptureCut					| Escaping a grab
+CaptureJump					| Being hit out of a grab
+-----------
+ITEMS RELATED
+-----------
+LightGet					| Picking up a small item i.e. turnip, bobomb, capsule, etc
+LightThrowF					| Throwing a small item forward from a standstill
+LightThrowB					| Throwing a small item backward from a standstill
+LightThrowHi				| Throwing a small item upward from a standstill
+LightThrowLw				| Throwing a small item downward from a standstill
+LightThrowDash				| Throwing a small item from a dash
+LightThrowDrop				| Dropping a small item
+LightThrowAirF				| Throwing a small item forward in the air
+LightThrowAirB				| Throwing a small item backward in the air
+LightThrowAirHi				| Throwing a small item upward in the air
+LightThrowAirLw				| Throwing a small item downward in the air
+HeavyGet					| The rest of the item animations aren't important if you don't have items enabled
+HeavyWalk1					| 
+HeavyWalk2					| 
+HeavyThrowF					| 
+HeavyThrowB					| 
+HeavyThrowHi				| 
+HeavyThrowLw				| 
+Swing1						| 
+Swing3						| 
+Swing4						| 
+SwingDash					| 
+ItemHammerWait				| 
+ItemHammerMove				| 
+ItemParasolOpen				| 
+ItemParasolFall				| 
+ItemShoot					| 
+ItemShootAir				| 
+ItemScrew					| 
+ItemScrewAir				| 
+ItemScrewDamage				| 
+ItemBlind					| 
+ItemScopeStart				| 
+ItemScopeRapid				| 
+ItemScopeFire				| 
+ItemScopeEnd				| 
+ItemScopeAirStart			| 
+ItemScopeAirRapid			| 
+ItemScopeAirFire			| 
+ItemScopeAirEnd				| 
+-----------
+GETTING HIT	
+-----------
+DamageHi1					| Being hit with low damage/knockback on an upper part of the body without entering hitstun
+DamageHi2					| Being hit with medium damage/knockback on an upper part of the body without entering hitstun
+DamageHi3					| Being hit with high damage/knockback on an upper part of the body without entering hitstun
+DamageN1					| Being hit with low damage/knockback on a middle part of the body without entering hitstun
+DamageN2					| Being hit with medium damage/knockback on a middle part of the body without entering hitstun
+DamageN3					| Being hit with high damage/knockback on a middle part of the body without entering hitstun
+DamageLw1					| Being hit with low damage/knockback on a lower part of the body without entering hitstun
+DamageLw2					| Being hit with medium damage/knockback on a lower part of the body without entering hitstun
+DamageLw3					| Being hit with high damage/knockback on a lower part of the body without entering hitstun
+DamageAir1					| Being hit with low damage/knockback while in the air without entering hitstun
+DamageAir2					| Being hit with medium damage/knockback while in the air without entering hitstun
+DamageAir3					| Being hit with high damage/knockback while in the air without entering hitstun
+DamageFlyHi					| Being hit on an upper part of the body and entering hitstun. Player becomes airborne
+DamageFlyN					| Being hit on a middle part of the body and entering hitstun. Player becomes airborne
+DamageFlyLw					| Being hit on a lower part of the body and entering hitstun. Player becomes airborne
+DamageFlyTop				| Being hit straight upwards (like fox up-air) and entering hitstun. Player becomes airborne
+DamageFlyRoll				| Being hit and entering hitstun at any angle above 100%, with a 30% chance of occurring
+DownBoundU					| Missed tech, hitting the ground, facing upward
+DownWaitU					| Missed tech, idle, facing upward
+DownDamageU					| Missed tech, taking damage from an attack too weak to give hitstun, facing upward
+DownStandU					| Missed tech, regular getup, facing upward
+DownAttackU					| Missed tech, getup attack, facing upward
+DownFowardU					| Missed tech, forward roll, facing upward
+DownBackU					| Missed tech, backward roll, facing upward
+DownBoundD					| Missed tech, hitting the ground, facing downward
+DownWaitD					| Missed tech, idle, facing downward
+DownDamageD					| Missed tech, taking damage from an attack too weak to give hitstun, facing downward
+DownStandD					| Missed tech, regular getup, facing downward
+DownAttackD					| Missed tech, getup attack, facing downward
+DownFowardD					| Missed tech, forward roll, facing downward
+DownBackD					| Missed tech, backward roll, facing downward
+Passive						| Tech in place
+PassiveStandF				| Tech forward
+PassiveStandB				| Tech backward
+PassiveWall					| Wall tech
+PassiveWallJump				| Walljump tech
+PassiveCeil					| Ceiling tech
+FuraFura					| Shield break idle
+FuraSleepStart				| Falling asleep
+FuraSleepLoop				| zzzzzz
+FuraSleepEnd				| Waking up
+WallDamage					| Hitting a wall
+DamageFall					| Falling after hitstun
+Rebound						| 
