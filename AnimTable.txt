@@ -39,8 +39,8 @@ EscapeF						| Done
 EscapeB						| Done
 EscapeAir					| Done
 Pass						| Drop through a platform
-Ottotto						| Initial teeter at an edge
-OttottoWait					| Edge teeter idle
+Ottotto						| Done
+OttottoWait					| Done
 StopWall					| Hit a wall
 StopCeil					| Hit a ceiling
 MissFoot					| Sliding off an edge backwards
@@ -61,27 +61,27 @@ AppealL						| Left-facing taunt
 -----------
 ATTACKS RELATED
 -----------					| 
-Attack11					| Jab 1
-Attack12					| Jab 2
-AttackDash					| Dash Attack
-AttackS3Hi					| Up-angled Forward Tilt
-AttackS3S					| Forward Tilt
-AttackS3Lw					| Low-angled Forward Tilt
+Attack11					| Done
+Attack12					| Done
+AttackDash					| Done
+AttackS3Hi					| Done
+AttackS3S					| Done
+AttackS3Lw					| Done
 AttackHi3					| Up Tilt
-AttackLw3					| Down Tilt
+AttackLw3					| Done
 AttackS4					| Forward Smash
 AttackHi4					| Up Smash
-AttackLw4					| Down Smash
+AttackLw4					| Done
 AttackAirN					| Done
-AttackAirF					| Forward Air
-AttackAirB					| Back Air
-AttackAirHi					| Up Air
-AttackAirLw					| Down Air
+AttackAirF					| Done
+AttackAirB					| Done
+AttackAirHi					| Done
+AttackAirLw					| Done
 LandingAirN					| Done
-LandingAirF					| F-Air Landing Animation
-LandingAirB					| B-Air Landing Animation
-LandingAirHi				| U-Air Landing Animation
-LandingAirLw				| D-Air Landing Animation
+LandingAirF					| Done
+LandingAirB					| Done
+LandingAirHi				| Done
+LandingAirLw				| Done
 Catch						| Standing Grab
 CatchDash					| Running Grab
 CatchWait					| Holding Opponent
