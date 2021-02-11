@@ -44,18 +44,18 @@ OttottoWait					| Done
 StopWall					| Hit a wall
 StopCeil					| Hit a ceiling
 MissFoot					| Sliding off an edge backwards
-CliffCatch					| Initial ledge grab
-CliffWait					| Waiting on ledge
-CliffClimbSlow				| Regular ledge getup > 100%
-CliffClimbQuick				| Regular ledge getup < 100%
-CliffAttackSlow				| Ledge getup attack > 100%
-CliffAttackQuick			| Ledge getup attack < 100%
-CliffEscapeSlow				| Ledge roll > 100%
-CliffEscapeQuick			| Ledge roll < 100%
-CliffJumpSlow1				| Initial jumping from ledge > 100%
-CliffJumpSlow2				| The actual jumping part > 100%
-CliffJumpQuick1				| Initial jumping from ledge < 100%
-CliffJumpQuick2				| The actual jumping part < 100%
+CliffCatch					| Done
+CliffWait					| Done
+CliffClimbSlow - 60			| Done
+CliffClimbQuick - 30		| Regular ledge getup < 100%
+CliffAttackSlow - 70		| Ledge getup attack > 100%
+CliffAttackQuick - 45		| Ledge getup attack < 100%
+CliffEscapeSlow - 80		| Ledge roll > 100%
+CliffEscapeQuick - 50		| Ledge roll < 100%
+CliffJumpSlow1 - 19			| Initial jumping from ledge > 100%
+CliffJumpSlow2 - 32			| The actual jumping part > 100%
+CliffJumpQuick1 - 11		| Initial jumping from ledge < 100%
+CliffJumpQuick2	- 24		| The actual jumping part < 100%
 AppealR						| Right-facing taunt
 AppealL						| Left-facing taunt
 -----------
@@ -67,10 +67,10 @@ AttackDash					| Done
 AttackS3Hi					| Done
 AttackS3S					| Done
 AttackS3Lw					| Done
-AttackHi3					| Up Tilt
+AttackHi3					| Done
 AttackLw3					| Done
-AttackS4					| Forward Smash
-AttackHi4					| Up Smash
+AttackS4					| done
+AttackHi4					| DONE
 AttackLw4					| Done
 AttackAirN					| Done
 AttackAirF					| Done
@@ -82,8 +82,8 @@ LandingAirF					| Done
 LandingAirB					| Done
 LandingAirHi				| Done
 LandingAirLw				| Done
-Catch						| Standing Grab
-CatchDash					| Running Grab
+Catch - 6					| Done
+CatchDash - 10				| Done
 CatchWait					| Holding Opponent
 CatchAttack					| Pummel
 CatchCut					| Opponent breaks free from grab
