@@ -851,6 +851,7 @@ animData {
  preInfinity constant;
  postInfinity constant;
  keys {
+ 0.0 1.0 spline spline 1 1 0 0.0 1 0.0 1;
  7.0 1.0 spline spline 1 1 0 0.0 1 0.0 1;
  10.0 1.5 spline spline 1 1 0 0.0 1 0.0 1;
  18.0 1.0 spline spline 1 1 0 0.0 1 0.0 1;
@@ -864,6 +865,7 @@ animData {
  preInfinity constant;
  postInfinity constant;
  keys {
+ 0.0 1.0 spline spline 1 1 0 0.0 1 0.0 1;
  7.0 1.0 spline spline 1 1 0 0.0 1 0.0 1;
  10.0 1.0 spline spline 1 1 0 0.0 1 0.0 1;
  18.0 1.0 spline spline 1 1 0 0.0 1 0.0 1;
@@ -877,6 +879,7 @@ animData {
  preInfinity constant;
  postInfinity constant;
  keys {
+ 0.0 1.0 spline spline 1 1 0 0.0 1 0.0 1;
  7.0 1.0 spline spline 1 1 0 0.0 1 0.0 1;
  10.0 1.0 spline spline 1 1 0 0.0 1 0.0 1;
  18.0 1.0 spline spline 1 1 0 0.0 1 0.0 1;
@@ -2423,6 +2426,7 @@ animData {
  preInfinity constant;
  postInfinity constant;
  keys {
+ 0.0 1.0 spline spline 1 1 0 0.0 1 0.0 1;
  25.0 1.0 spline spline 1 1 0 0.0 1 0.0 1;
  32.0 0.800000011920929 spline spline 1 1 0 0.0 1 0.0 1;
  40.0 1.0 spline spline 1 1 0 0.0 1 0.0 1;
@@ -2436,6 +2440,7 @@ animData {
  preInfinity constant;
  postInfinity constant;
  keys {
+ 0.0 0.9999998807907247 spline spline 1 1 0 0.0 1 0.0 1;
  25.0 0.9999998807907247 spline spline 1 1 0 0.0 1 0.0 1;
  32.0 0.9999998807907247 spline spline 1 1 0 0.0 1 0.0 1;
  40.0 0.9999998807907247 spline spline 1 1 0 0.0 1 0.0 1;
@@ -2449,6 +2454,7 @@ animData {
  preInfinity constant;
  postInfinity constant;
  keys {
+ 0.0 1.0 spline spline 1 1 0 0.0 1 0.0 1;
  25.0 1.0 spline spline 1 1 0 0.0 1 0.0 1;
  32.0 1.0 spline spline 1 1 0 0.0 1 0.0 1;
  40.0 1.0 spline spline 1 1 0 0.0 1 0.0 1;
@@ -2878,6 +2884,7 @@ animData {
  preInfinity constant;
  postInfinity constant;
  keys {
+ 0.0 1.0 spline spline 1 1 0 0.0 1 0.0 1;
  30.0 1.0 spline spline 1 1 0 0.0 1 0.0 1;
  35.0 0.8500000238418579 spline spline 1 1 0 0.0 1 0.0 1;
  40.0 1.0 spline spline 1 1 0 0.0 1 0.0 1;
@@ -2891,6 +2898,7 @@ animData {
  preInfinity constant;
  postInfinity constant;
  keys {
+ 0.0 1.0 spline spline 1 1 0 0.0 1 0.0 1;
  30.0 1.0 spline spline 1 1 0 0.0 1 0.0 1;
  35.0 1.0 spline spline 1 1 0 0.0 1 0.0 1;
  40.0 1.0 spline spline 1 1 0 0.0 1 0.0 1;
@@ -2904,6 +2912,7 @@ animData {
  preInfinity constant;
  postInfinity constant;
  keys {
+ 0.0 1.0 spline spline 1 1 0 0.0 1 0.0 1;
  30.0 1.0 spline spline 1 1 0 0.0 1 0.0 1;
  35.0 1.0 spline spline 1 1 0 0.0 1 0.0 1;
  40.0 1.0 spline spline 1 1 0 0.0 1 0.0 1;
